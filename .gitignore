@@ -1,0 +1,7 @@
+*.py[co]
+*.sublime-workspace
+.idea
+*.sw[po]
+*.egg*
+__pycache__
+.DS_Store
